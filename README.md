@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 歡迎來到我的技術專頁
 
-<!--
-**s03350aa99/s03350aa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是專注於網路架構優化、SEO 與自動化工具開發的技術愛好者。這裡彙整了我所有關於網路翻牆優化、自動化運維以及開發工具的深度教程與專案。
 
-Here are some ideas to get you started:
+## 📍 快速導航：我的技術矩陣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 分類 | 專案名稱 | 功能介紹 |
+| :--- | :--- | :--- |
+| **🏠 主站** | [2026 最新平价机场测评](https://s03350aa99.github.io/) | 綜合評測與機場導航入口 |
+| **🖥️ Windows** | [Windows 翻牆排錯指南](https://github.com/s03350aa99/best-windows-vpn-guide) | 解決 TUN/TAP、DNS 污染與 4K 卡頓 |
+| **📱 Android** | [安卓手機優化配置](https://github.com/s03350aa99/android-vpn-setup-tutorial) | 解決殺後台、耗電與分應用代理 |
+| **🛠️ 工具箱** | [自動化運維腳本庫](https://github.com/s03350aa99/GSC_Tools) | Google Search Console 自動化腳本 |
+
+---
+
+## 🔍 關於我的研究領域
+* **SEO 戰略**：研究 Google 搜尋引擎規則，優化小說與漫畫平台的權重與收錄。
+* **網路優化**：深入探討 VLESS, Trojan, Reality 協議的抗干擾能力與速度極限。
+* **自動化開發**：利用 Python 實現爬蟲、網頁監控與伺服器日誌分析。
+
+---
+
+## 📬 聯繫與合作
+我有超過 2000 個域名管理經驗，致力於提升各類站點的用戶體驗與 SEO 表現。如果你對網站架設、SEO 優化或自動化运维有興趣，歡迎隨時參閱我的項目。
+
+> *「用技術解決網路障礙，讓資訊傳遞更高效。」*
+
+---
+*(最後更新於 2026-05-20)*
